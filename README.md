@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My public software around revolves around terminal developer tools and fun experiments. My public repos include TypeScript, Swift, Rust and Python, I try to focus on TypeScript and Rust these days.
+My public software revolves around terminal developer tools and fun experiments. My public repos include TypeScript, Swift, Rust and Python, I try to focus on TypeScript and Rust these days.
 
 ## What I’m working on
 
-- **Developer productivity tool:** I made **repo-intents**, a CLI for organizing common repository actions by intent. Works well for me, have future additions later.
+- **Developer productivity tool:** I made **repo-intents[repo-intents](https://github.com/MAA-98/repo-intents)**, a CLI for organizing common repository actions by intent. Works well for me, and I have future additions features planned.
 - **Professional work:** I am the founder of LLM Dock, providing AI tools for SMEs in UK regulated industries.
 
 ## Other featured projects
