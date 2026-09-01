@@ -1,6 +1,6 @@
 # Hi, I’m Marek 👋
 
-My public software revolves around terminal developer tools and fun experiments. My public repos include TypeScript, Swift, Rust and Python, I try to focus on TypeScript and Rust these days.
+My public software revolves around terminal developer tools and experiments. I work with TypeScript, Swift, Rust and Python, focusing on TypeScript these days.
 
 ## 🔭 What I’m working on
 
@@ -10,10 +10,9 @@ My public software revolves around terminal developer tools and fun experiments.
 ## ➕ Other featured projects
 
 - **Swisp** — a Swift-flavored LISP for in-process scripting in Swift apps.
-- **hookey** — a buffer and cursor execution layer over `ropey` for Rust text-buffer workflows, work in progress.
-- **gill** — a CLI for sending LLM prompts with file snippets.
 - **maa-98.github.io** — blog site.
+- Various publicly archived toy projects and experiments.
 
 ## ⚡ Tech I like working with
 
-Rust · TypeScript · Swift · Python
+TypeScript · Rust · Swift · Python
